@@ -1,37 +1,30 @@
-## Welcome to GitHub Pages
+## Welcome my personal website
 
-You can use the [editor on GitHub](https://github.com/olewicki/olewicki.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+Ph.D. Student in Computer Engineering at [Polytechnique Montréal, Canada](https://www.polymtl.ca/)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+# Bio
+I'm Doriane Olewicki.
+I'm a Ph.D. Student in Computer Engineering since September 2020, under the supervision of [Sarath Chandar](http://sarathchandar.in/). 
 
-### Markdown
+Since July 2019, I have been working with [La Forge, Ubisoft Montréal](https://montreal.ubisoft.com/en/our-engagements/research-and-development/). I collaborated with them on my Master's research and thesis, and I am now collaborating with them on my Ph.D. research.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+I did my Bachelor at [Université Catholique de Louvain, Belgium](https://uclouvain.be/). Then I did a double degree, getting a Master in Computer engineering from [Polytechnique Montréal, Canada](https://www.polymtl.ca/) and a Master in Software engineering [Université Catholique de Louvain, Belgium](https://uclouvain.be/), under the supervision of [Bram Adams](https://mcis.cs.queensu.ca/bram.html).
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+# Research interests
+Continual learning for Software Engineering, Machine Learning, Continuous Integration, Build Automation.
 
-- Bulleted
-- List
+My Master thesis was called **On the Cost and Value of Build Automation**.
 
-1. Numbered
-2. List
+# News
 
-**Bold** and _Italic_ and `Code` text
+- Sep 2020: TA for the LOG3210 Compiler class at Polymtl [(link)](https://www.polymtl.ca/programmes/cours/elements-de-langages-et-compilateurs)
+- Aug 2020: Defended my Master Defense and my Master Thesis was accepted. 
 
-[Link](url) and ![Image](src)
-```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+# Contacts and Links
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/olewicki/olewicki.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+You can find me:
+- on Github at [olewicki](https://github.com/olewicki)
+- on LinkedIn at [Doriane Olewicki](https://www.linkedin.com/in/doriane-olewicki-154b17160/)
+- by email at <doriane.olewicki@gmail.com>
