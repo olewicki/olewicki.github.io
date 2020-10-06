@@ -16,7 +16,7 @@ I collaborated with them on my Master's research and thesis, and now on my Ph.D.
 # Research interests
 Continual learning for Software Engineering, Machine Learning, Continuous Integration, Build Automation.
  
-My Master thesis was called *On the Cost and Value of Build Automation*.
+My Master's thesis was called *On the Cost and Value of Build Automation*.
 
 # Study Background
 
