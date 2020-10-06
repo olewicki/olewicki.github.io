@@ -6,7 +6,8 @@ Email: <doriane.olewicki@gmail.com>
 
 # Bio
 
-I'm Doriane Olewicki.
+I'm Doriane Olewicki, born and raised in Belgium. I moved to Canada for my studies in 2018. I'm fluent in French and English.
+
 I'm a Ph.D. Student in Computer Engineering since September 2020, under the supervision of [Sarath Chandar](http://sarathchandar.in/). 
 
 Since July 2019, I have been working with [La Forge, Ubisoft Montréal](https://montreal.ubisoft.com/en/our-engagements/research-and-development/). 
