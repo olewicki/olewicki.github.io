@@ -13,7 +13,7 @@ I did my Bachelor at [Université Catholique de Louvain, Belgium](https://uclouv
 
 # Research interests
 Continual learning for Software Engineering, Machine Learning, Continuous Integration, Build Automation.
-
+ 
 My Master thesis was called **On the Cost and Value of Build Automation**.
 
 # News
