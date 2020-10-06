@@ -1,7 +1,7 @@
 ## Welcome my personal website
 
 Ph.D. Student in Computer Engineering at [Polytechnique Montréal, Canada](https://www.polymtl.ca/)
-
+Email: <doriane.olewicki@gmail.com>
 # Bio
 I'm Doriane Olewicki.
 I'm a Ph.D. Student in Computer Engineering since September 2020, under the supervision of [Sarath Chandar](http://sarathchandar.in/). 
@@ -20,11 +20,3 @@ My Master thesis was called **On the Cost and Value of Build Automation**.
 
 - Sep 2020: TA for the LOG3210 Compiler class at Polymtl [(link)](https://www.polymtl.ca/programmes/cours/elements-de-langages-et-compilateurs)
 - Aug 2020: Defended my Master Defense and my Master Thesis was accepted. 
-
-
-# Contacts and Links
-
-You can find me:
-- on Github at [olewicki](https://github.com/olewicki)
-- on LinkedIn at [Doriane Olewicki](https://www.linkedin.com/in/doriane-olewicki-154b17160/)
-- by email at <doriane.olewicki@gmail.com>
