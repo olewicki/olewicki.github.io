@@ -1,7 +1,9 @@
 ## Welcome my personal website
 
 Ph.D. Student in Computer Engineering at [Polytechnique Montréal, Canada](https://www.polymtl.ca/)
+
 Email: <doriane.olewicki@gmail.com>
+
 # Bio
 I'm Doriane Olewicki.
 I'm a Ph.D. Student in Computer Engineering since September 2020, under the supervision of [Sarath Chandar](http://sarathchandar.in/). 
