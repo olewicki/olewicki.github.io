@@ -1,4 +1,4 @@
-## Welcome my personal website
+## Welcome to my personal website
 
 Ph.D. Student in Computer Engineering at [Polytechnique Montréal, Canada](https://www.polymtl.ca/)
 
