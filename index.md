@@ -14,8 +14,9 @@ Since July 2019, I have been working with [La Forge, Ubisoft Montréal](https://
 I collaborated with them on my Master's research and thesis, and now on my Ph.D. research.
 
 # Research interests
+
 Continual learning for Software Engineering, Machine Learning, Continuous Integration, Build Automation.
- 
+
 My Master's thesis was called *On the Cost and Value of Build Automation*.
 
 # Study Background
@@ -26,5 +27,6 @@ My Master's thesis was called *On the Cost and Value of Build Automation*.
 
 # News
 
+- Jan 2021: I gave the lectures for the LOG3210 Compiler class at Polymtl [(link)](https://www.polymtl.ca/programmes/cours/elements-de-langages-et-compilateurs)
 - Sep 2020: TA for the LOG3210 Compiler class at Polymtl [(link)](https://www.polymtl.ca/programmes/cours/elements-de-langages-et-compilateurs)
 - Aug 2020: Defended my Master Defense and my Master Thesis was accepted. 
