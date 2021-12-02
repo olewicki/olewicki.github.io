@@ -31,7 +31,10 @@ My Master's thesis was called *On the Cost and Value of Build Automation*.
 - Nov 2021: Successfully passed my PhD comprehensive exam and got my research proposal accepted!
 - Sep 2021: Lecturer for the LOG3210 Compiler class at Polymtl [(link)](https://www.polymtl.ca/programmes/cours/elements-de-langages-et-compilateurs)
 
-# Paper
-- **Towards Language-independent Brown Build Detection**
-Doriane Olewicki, Mathieu Nayrolles, Bram Adams
+# Papers
+
+- **Towards Language-independent Brown Build Detection**,
+Doriane Olewicki, Mathieu Nayrolles, Bram Adams,
 ICSE 2022.
+
+- **On the Cost and Value of Build Automation**, Master thesis, Polytechnique Montréal 2020. [link](https://publications.polymtl.ca/5388/)
