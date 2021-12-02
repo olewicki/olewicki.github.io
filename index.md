@@ -1,6 +1,6 @@
 ## Welcome to my personal website
 
-Ph.D. Student in Computer Engineering at [Polytechnique Montréal, Canada](https://www.polymtl.ca/)
+Ph.D. Candidate in Computer Engineering at [Polytechnique Montréal, Canada](https://www.polymtl.ca/)
 
 Email: <doriane.olewicki@gmail.com>
 
@@ -8,7 +8,7 @@ Email: <doriane.olewicki@gmail.com>
 
 I'm Doriane Olewicki, born and raised in Belgium. I moved to Canada for my studies in 2018. I'm fluent in French and English.
 
-I'm a Ph.D. Student in Computer Engineering since September 2020, under the supervision of [Sarath Chandar](http://sarathchandar.in/). 
+I'm a Ph.D. Candidate in Computer Engineering, under the supervision of [Sarath Chandar](http://sarathchandar.in/) and [Bram Adams](https://mcis.cs.queensu.ca/bram.html). I started my PhD in September 2020.
 
 Since July 2019, I have been working with [La Forge, Ubisoft Montréal](https://montreal.ubisoft.com/en/our-engagements/research-and-development/). 
 I collaborated with them on my Master's research and thesis, and now on my Ph.D. research.
@@ -30,3 +30,6 @@ My Master's thesis was called *On the Cost and Value of Build Automation*.
 - Nov 2021: Paper "Towards Language-independent Brown Build Detection" accepted at ICSE22.
 - Nov 2021: Successfully passed my PhD comprehensive exam and got my research proposal accepted!
 - Sep 2021: Lecturer for the LOG3210 Compiler class at Polymtl [(link)](https://www.polymtl.ca/programmes/cours/elements-de-langages-et-compilateurs)
+
+# Paper
+- **Towards Language-independent Brown Build Detection**\\ Doriane Olewicki, Mathieu Nayrolles, Bram Adams\\ ICSE 2022.
