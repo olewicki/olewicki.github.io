@@ -21,9 +21,9 @@ My Master's thesis was called *On the Cost and Value of Build Automation*.
 
 # Study Background
 
-- Master in Computer engineering from [Polytechnique Montréal, Canada](https://www.polymtl.ca/), under the supervision of [Bram Adams](https://mcis.cs.queensu.ca/bram.html) *(double degree)*
-- Master in Master in Software engineering [Université Catholique de Louvain, Belgium](https://uclouvain.be/) *(double degree)*
-- Bachelor at [Université Catholique de Louvain, Belgium](https://uclouvain.be/)
+- 2019-2020: Master in Computer engineering from [Polytechnique Montréal, Canada](https://www.polymtl.ca/), under the supervision of [Bram Adams](https://mcis.cs.queensu.ca/bram.html) *(double degree)*
+- 2017-2020: Master in Software engineering [Université Catholique de Louvain, Belgium](https://uclouvain.be/) *(double degree)*
+- 2014-2017: Bachelor at [Université Catholique de Louvain, Belgium](https://uclouvain.be/)
 
 # News
 
