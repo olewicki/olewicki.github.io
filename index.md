@@ -27,6 +27,6 @@ My Master's thesis was called *On the Cost and Value of Build Automation*.
 
 # News
 
-- Jan 2021: I gave the lectures for the LOG3210 Compiler class at Polymtl [(link)](https://www.polymtl.ca/programmes/cours/elements-de-langages-et-compilateurs)
-- Sep 2020: TA for the LOG3210 Compiler class at Polymtl [(link)](https://www.polymtl.ca/programmes/cours/elements-de-langages-et-compilateurs)
-- Aug 2020: Defended my Master Defense and my Master Thesis was accepted. 
+- Nov 2021: Paper "Towards Language-independent Brown Build Detection" accepted at ICSE22.
+- Nov 2021: Successfully passed my PhD comprehensive exam and got my research proposal accepted!
+- Sep 2021: Lecturer for the LOG3210 Compiler class at Polymtl [(link)](https://www.polymtl.ca/programmes/cours/elements-de-langages-et-compilateurs)
