@@ -10,7 +10,7 @@ I'm Doriane Olewicki, born and raised in Belgium. I moved to Canada for my studi
 
 I'm a Ph.D. Candidate in Computer Engineering at Queen's University, under the supervision of Professor Bram Adams. I started my PhD in September 2020 and I'm expected to defend my thesis in December 2024.
 
-Since July 2019, I 'm collaborating with La Forge, Ubisoft Montréal on first my Master's research and thesis, and now on my Ph.D. research.
+Since July 2019, I'm collaborating with La Forge, Ubisoft Montréal on first my Master's research and thesis, and now on my Ph.D. research.
 
 # Research interests
 
@@ -24,15 +24,15 @@ My Master's thesis was called *On the Cost and Value of Build Automation*.
 
 # News
 
-- Jan 2024: Paper "On the Costs and Benefits of Adopting Lifelong Learning for Software Analytics - Empirical Study on Brown Build and Risk Prediction" accepted at SEIP, ICSE24.
+- Apr 2024: I'm presenting paper "On the Costs and Benefits of Adopting Lifelong Learning for Software Analytics - Empirical Study on Brown Build and Risk Prediction" at ICSE-SEIP 2024.
+- Feb 2024: I presented my work about code review automation at UDC, Ubisoft's internal conference.
+- Nov 2023: I took part in the [FM+SE](https://fmse.io/) workshop, discussing about the future of Fundation Models.
 - Jan 2023: Lecturer for the LOG3210 Compiler class at Polymtl [(link)](https://www.polymtl.ca/programmes/cours/elements-de-langages-et-compilateurs)
-- May 2022: Paper "Towards Language-independent Brown Build Detection" presented at ICSE22. 
-- Nov 2021: Successfully passed my PhD comprehensive exam and got my research proposal accepted!
 
 # Papers
 
 - **On the Costs and Benefits of Adopting Lifelong Learning for Software Analytics - Empirical Study on Brown Build and Risk Prediction**,
-Doriane Olewicki, Sarra Habchi, Mathieu Nayrolles, Mojtaba Faramarzi, Sarath Chandar, Brams Adams, ICSE 2024 (SEIP).
+Doriane Olewicki, Sarra Habchi, Mathieu Nayrolles, Mojtaba Faramarzi, Sarath Chandar, Brams Adams, ICSE-SEIP 2024.
 ([paper](https://arxiv.org/abs/2305.09824))
 
 - **Towards Language-independent Brown Build Detection**,
