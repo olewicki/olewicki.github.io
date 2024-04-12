@@ -8,7 +8,7 @@ Email: <doriane.olewicki@gmail.com>
 
 I'm Doriane Olewicki, born and raised in Belgium. I moved to Canada for my studies in 2018. I'm fluent in French and English.
 
-I'm a Ph.D. Candidate in Computer Engineering at Queen's University, under the supervision of Professor Bram Adams. I started my PhD in September 2020.
+I'm a Ph.D. Candidate in Computer Engineering at Queen's University, under the supervision of Professor Bram Adams. I started my PhD in September 2020 and I'm expected to defend my thesis in December 2024.
 
 Since July 2019, I 'm collaborating with La Forge, Ubisoft Montréal on first my Master's research and thesis, and now on my Ph.D. research.
 
@@ -24,11 +24,16 @@ My Master's thesis was called *On the Cost and Value of Build Automation*.
 
 # News
 
+- Jan 2024: Paper "On the Costs and Benefits of Adopting Lifelong Learning for Software Analytics - Empirical Study on Brown Build and Risk Prediction" accepted at SEIP, ICSE24.
 - Jan 2023: Lecturer for the LOG3210 Compiler class at Polymtl [(link)](https://www.polymtl.ca/programmes/cours/elements-de-langages-et-compilateurs)
 - May 2022: Paper "Towards Language-independent Brown Build Detection" presented at ICSE22. 
 - Nov 2021: Successfully passed my PhD comprehensive exam and got my research proposal accepted!
 
 # Papers
+
+- **On the Costs and Benefits of Adopting Lifelong Learning for Software Analytics - Empirical Study on Brown Build and Risk Prediction**,
+Doriane Olewicki, Sarra Habchi, Mathieu Nayrolles, Mojtaba Faramarzi, Sarath Chandar, Brams Adams, ICSE 2024 (SEIP).
+([paper](https://arxiv.org/abs/2305.09824))
 
 - **Towards Language-independent Brown Build Detection**,
 Doriane Olewicki, Mathieu Nayrolles, Bram Adams,
@@ -39,7 +44,6 @@ ICSE 2022.
 
 # Study Background
 
-
 - 2023-present: PhD in Computer science at [Queen's University, Canada](https://www.queensu.ca/), under the supervision of [Bram Adams](https://mcis.cs.queensu.ca/bram.html)
 - 2020-2022: Research in Computer engineering at [Polytechnique Montréal, Canada](https://www.polymtl.ca/), under the supervision of [Sarath Chandar](http://sarathchandar.in/) and [Bram Adams](https://mcis.cs.queensu.ca/bram.html), in afiliation with the [Mila](https://mila.quebec/)
 - 2019-2020: Master in Computer engineering at [Polytechnique Montréal, Canada](https://www.polymtl.ca/), under the supervision of [Bram Adams](https://mcis.cs.queensu.ca/bram.html) *(double degree)*
@@ -47,6 +51,8 @@ ICSE 2022.
 - 2014-2017: Bachelor at [Université Catholique de Louvain, Belgium](https://uclouvain.be/)
 
 # Scholarships
+- November 2023 - present : Mitacs Accelerate in collaboration with [La Forge, Ubisoft Montréal](https://montreal.ubisoft.com/en/our-engagements/research-and-development/)
+  Title: *RevMate: Towards an optimized review process in AAA game development* 
 - April 2021 - August 2022 : Mitacs Accelerate in collaboration with [La Forge, Ubisoft Montréal](https://montreal.ubisoft.com/en/our-engagements/research-and-development/)
   Title: *Life-long learning in game development processes* ([link](https://www.mitacs.ca/fr/projects/life-long-learning-game-development-processes))
 - July 2019 - July 2020 : Mitacs Accelerate in collaboration with [La Forge, Ubisoft Montréal](https://montreal.ubisoft.com/en/our-engagements/research-and-development/) 
