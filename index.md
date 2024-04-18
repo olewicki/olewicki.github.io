@@ -24,6 +24,7 @@ My Master's thesis was called *On the Cost and Value of Build Automation*.
 
 # News
 
+- Apr 2024: Our paper "An empirical study on code review activity prediction in practice" got accepted at FSE 2024.
 - Apr 2024: I'm presenting paper "On the Costs and Benefits of Adopting Lifelong Learning for Software Analytics - Empirical Study on Brown Build and Risk Prediction" at ICSE-SEIP 2024.
 - Feb 2024: I presented my work about code review automation at UDC, Ubisoft's internal conference.
 - Nov 2023: I took part in the [FM+SE](https://fmse.io/) workshop, discussing about the future of Fundation Models.
@@ -31,6 +32,10 @@ My Master's thesis was called *On the Cost and Value of Build Automation*.
 
 # Papers
 
+- **An empirical study on code review activity prediction in practice**,
+Doriane Olewicki, Sarra Habchi, Bram Adams, FSE 2024.
+([paper](https://arxiv.org/abs/2404.10703))
+  
 - **On the Costs and Benefits of Adopting Lifelong Learning for Software Analytics - Empirical Study on Brown Build and Risk Prediction**,
 Doriane Olewicki, Sarra Habchi, Mathieu Nayrolles, Mojtaba Faramarzi, Sarath Chandar, Brams Adams, ICSE-SEIP 2024.
 ([paper](https://arxiv.org/abs/2305.09824))
