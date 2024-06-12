@@ -6,7 +6,7 @@ Email: <doriane.olewicki@gmail.com>
 
 # Bio
 
-I'm Doriane Olewicki, born and raised in Belgium. I moved to Canada for my studies in 2018. I'm fluent in French and English.
+I'm Doriane Olewicki, born and raised in Belgium. I moved to Canada for my graduate studies in 2018. I'm fluent in French and English.
 
 I'm a Ph.D. Candidate in Computer Engineering at Queen's University, under the supervision of Professor Bram Adams. I started my PhD in September 2020 and I'm expected to defend my thesis in December 2024.
 
@@ -24,15 +24,16 @@ My Master's thesis was called *On the Cost and Value of Build Automation*.
 
 # News
 
-- Apr 2024: Our paper "An empirical study on code review activity prediction in practice" got accepted at FSE 2024.
-- Apr 2024: I'm presenting paper "On the Costs and Benefits of Adopting Lifelong Learning for Software Analytics - Empirical Study on Brown Build and Risk Prediction" at ICSE-SEIP 2024.
+- Jun 2024: I presented a talk about our work on code review activity prediction at CSER 2024, and a poster at SEMLA 2024.
+- Apr 2024: Our paper "An Empirical Study on Code Review Activity Prediction and Its Impact in Practice" got accepted at FSE 2024.
+- Apr 2024: I'm presenting paper "On the Costs and Benefits of Adopting Lifelong Learning for Software Analytics - Empirical Study on Brown Build and Risk Prediction" at ICSE-SEIP 2024. Furthermore, the paper got [ICSE24 SEIP Distinguished Paper Award]([https://www.polymtl.ca/programmes/cours/elements-de-langages-et-compilateurs](https://conf.researchr.org/info/icse-2024/awards)).
 - Feb 2024: I presented my work about code review automation at UDC, Ubisoft's internal conference.
 - Nov 2023: I took part in the [FM+SE](https://fmse.io/) workshop, discussing about the future of Fundation Models.
 - Jan 2023: Lecturer for the LOG3210 Compiler class at Polymtl [(link)](https://www.polymtl.ca/programmes/cours/elements-de-langages-et-compilateurs)
 
 # Papers
 
-- **An empirical study on code review activity prediction in practice**,
+- **An Empirical Study on Code Review Activity Prediction and Its Impact in Practice**,
 Doriane Olewicki, Sarra Habchi, Bram Adams, FSE 2024.
 ([paper](https://arxiv.org/abs/2404.10703))
   
